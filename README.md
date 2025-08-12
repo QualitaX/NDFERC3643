@@ -1,6 +1,6 @@
 # Overview
 
-This project implements a Smart Derivative Contract (SDC) for Non-Deliverable Forwards that removes counterparty credit risk and automates settlement processes. 
+This project implements a Smart Derivative Contract (SDC) for OTC Bilateral Trading of Uncleared Non-Deliverable Forwards that removes counterparty credit risk and automates settlement processes. 
 The system enables two parties to exchange fixed and floating interest rate payments based on a notional amount, with automatic margin calls and settlement through Chainlink oracles.
 
 ### Key Benefits
