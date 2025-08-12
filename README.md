@@ -5,7 +5,7 @@ The system enables two parties to exchange fixed and floating interest rate paym
 
 ### Key Benefits
 
-- **Trustless Trading**: No intermediaries required
+- **Trustless OTC Bilateral Trading**: No intermediaries required
 - **Automated Settlement**: Daily margin calls and maturity settlement via Chainlink
 - **Regulatory Compliance**: Identity verification and compliance checks
 - **Risk Management**: Automatic collateral management and termination mechanisms
