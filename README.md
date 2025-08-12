@@ -43,13 +43,13 @@ The system enables two parties to exchange fixed and floating interest rate paym
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │    Factory      │    │    ERC6123      │    │   ERC7586       │
-│   Contract      │───▶│   (Main SDC)    │───▶│  (Logic)    │
+│   Contract      │───▶│   (Main SDC)    │───▶│  (Logic)       │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
                               │
                               ▼
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Participant   │    │  ERC6123Storage │    │   Chainlink     │
-│   Registry      │◀──▶│    (State)      │───▶│   Oracles       │
+│   Registry      │◀──▶│    (State)      │───▶│   Oracles     │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
